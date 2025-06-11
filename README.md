@@ -1,7 +1,7 @@
 # Welcome
 Hello! I'm Sean Quiambao, recently graduated from UC Riverside (B.S. Computer Science).
 
-📄 [Resume](https://drive.google.com/file/d/1CbE9c7TZY73nYFMedXDLZCCNEDwoQyt1/view?usp=drive_link)
+📄 [Resume](https://drive.google.com/file/d/1eDd0z8x0G9byke5CMvInPtEMBMRL1VAX/view?usp=sharing)
 
 🌐 [Website](https://seanquiambao.vercel.app/)
 
