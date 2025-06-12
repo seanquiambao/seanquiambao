@@ -9,6 +9,4 @@ Hello! I'm Sean Quiambao, recently graduated from UC Riverside (B.S. Computer Sc
 
 ℹ️ [LinkedIn](https://www.linkedin.com/in/squia003)
 
-<img src="https://tenor.com/view/bowser-low-poly-dancing-gif-11333890580656708160.gif" width="200" height="200" />
-<img src="https://tenor.com/view/susie-deltarune-sprite-dance-rpg-gif-17485276489273625554.gif" width="200" height="200" />
-<img src="https://tenor.com/view/herbert-dancing-herbert-dancing-herbert-p-bear-herbert-bear-gif-11374441192474789535.gif" width="200" height="200" />
+<img src="https://tenor.com/view/bowser-low-poly-dancing-gif-11333890580656708160.gif" width="200" height="200" /> <img src="https://tenor.com/view/susie-deltarune-sprite-dance-rpg-gif-17485276489273625554.gif" width="200" height="200" /> <img src="https://tenor.com/view/herbert-dancing-herbert-dancing-herbert-p-bear-herbert-bear-gif-11374441192474789535.gif" width="200" height="200" />
